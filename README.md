@@ -1,3 +1,5 @@
+This example is not working yet!!!
+
 Window dialog example from the G4P library for Processing translated into python to show how to use it with pyprocessing.
 
 more info on how to use this:
